@@ -31,8 +31,8 @@ cd portfolio_of_stocks
 Using venv:
 ```bash
 python -m venv stock_analysis
-source venv/bin/activate  # On Unix/macOS
-venv\Scripts\activate     # On Windows
+source stock_analysis/bin/activate  # On Unix/macOS
+stock_analysis\Scripts\activate     # On Windows
 ```
 
 OR using conda:
