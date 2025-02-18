@@ -30,7 +30,7 @@ cd portfolio_of_stocks
 
 Using venv:
 ```bash
-python -m venv venv
+python -m venv stock_analysis
 source venv/bin/activate  # On Unix/macOS
 venv\Scripts\activate     # On Windows
 ```
